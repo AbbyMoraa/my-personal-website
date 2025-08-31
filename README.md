@@ -6,15 +6,15 @@ This project is to be submitted when phase 0 ends.
 # Features
 Clean layout with styled sections  
 Flower products with images and prices  
-Hover effects for better design  
 
 # Technologies Used
- HTML → structure of the page and the contents
-CSS → styling and layout  
+ HTML → Structure of the page and the contents
+CSS → Styling and layout  
+JavaScript - Adds functions
 
 # Learning Goals
 Practice writing HTML  
-Learn how to style with CSS (padding, margins, hover effects, etc.)  
+Learn how to style with CSS ( 
 
 # How to Run
 1. Fork this onto your machine 
